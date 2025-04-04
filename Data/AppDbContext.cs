@@ -8,5 +8,7 @@ namespace NguyenDuyTuong_2122110008_ASP.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
         public DbSet<Product> Products { get; set; }
+        public DbSet<User> Users { get; set; }
+
     }
 }

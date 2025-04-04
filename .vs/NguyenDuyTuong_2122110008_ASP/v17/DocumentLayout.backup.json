@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\NguyenDuyTuong_2122110008_ASP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|d:\\nguyenduytuong_2122110008_asp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|d:\\nguyenduytuong_2122110008_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|d:\\nguyenduytuong_2122110008_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|d:\\nguyenduytuong_2122110008_asp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|d:\\nguyenduytuong_2122110008_asp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|d:\\nguyenduytuong_2122110008_asp\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|d:\\nguyenduytuong_2122110008_asp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|d:\\nguyenduytuong_2122110008_asp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|d:\\nguyenduytuong_2122110008_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D77D644-DE18-45AF-B851-A01B80BD6698}|NguyenDuyTuong_2122110008_ASP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,23 +34,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\NguyenDuyTuong_2122110008_ASP\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\NguyenDuyTuong_2122110008_ASP\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:35:37.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\NguyenDuyTuong_2122110008_ASP\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\NguyenDuyTuong_2122110008_ASP\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:54:50.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\NguyenDuyTuong_2122110008_ASP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\NguyenDuyTuong_2122110008_ASP\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:35:27.379Z",
+              "WhenOpened": "2025-04-04T01:53:38.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\NguyenDuyTuong_2122110008_ASP\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\NguyenDuyTuong_2122110008_ASP\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:47:31.694Z",
               "EditorCaption": ""
             },
             {
@@ -57,48 +96,22 @@
               "RelativeDocumentMoniker": "Model\\Product.cs",
               "ToolTip": "D:\\NguyenDuyTuong_2122110008_ASP\\Model\\Product.cs",
               "RelativeToolTip": "Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:34:57.599Z",
+              "WhenOpened": "2025-04-04T01:47:29.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\NguyenDuyTuong_2122110008_ASP\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\NguyenDuyTuong_2122110008_ASP\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:34:44.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\NguyenDuyTuong_2122110008_ASP\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\NguyenDuyTuong_2122110008_ASP\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T01:32:48.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\NguyenDuyTuong_2122110008_ASP\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\NguyenDuyTuong_2122110008_ASP\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T01:20:25.954Z",
+              "WhenOpened": "2025-04-04T01:05:23.897Z",
               "EditorCaption": ""
             }
           ]
